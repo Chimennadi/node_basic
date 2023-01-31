@@ -1,3 +1,2 @@
-require("./add")
-
-console.log("Hello from index.js")
+require("./batman")
+require("./superman")
